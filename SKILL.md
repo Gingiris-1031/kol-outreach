@@ -16,6 +16,6 @@ Stop getting ignored. These templates are battle-tested across 500+ successful c
 - **Partnership structures**: Paid vs barter vs affiliate — which to propose when
 
 ## Related Gingiris Skills
-- Full version: https://clawhub.ai/skill/gingiris-launch
-- All skills: https://clawhub.ai/user/gingiris
+- Full version: https://clawhub.ai/gingiris-1031/skills/gingiris-launch
+- All skills: https://clawhub.ai/gingiris-1031
 - Follow: [@WeiYipei on X](https://x.com/WeiYipei)
